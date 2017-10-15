@@ -5,11 +5,10 @@
  * ./bentley_ottman.py [options] [fichiers]
 
   * Options:
-     -h, --help    Renvoie ce message d'aide
-     --nodisp      Bloque l'affichage de la figure
-     --noinfo      Le programme n'affichera pas les informations textuelles
-
-  * Fichiers:
-   Les fichiers attendus sont sous le format .bo
+     -h, --help    Return the help message
+     --nodisp      Stop the display of the final result
+     --noinfo      Verbual mode turned off
+  * Files:
+   Files are required at the format .bo
 
 Developed by Stenzel Cackowski and Cesar Dumas
